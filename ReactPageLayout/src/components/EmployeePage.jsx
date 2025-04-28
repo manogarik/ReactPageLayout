@@ -23,13 +23,23 @@ export default function EmployeePage()
             </div>
             
         </div>
-        <div className="mobile">
-            <p>Call Mobile</p>
-            <p>781-000-0002</p>
+        <div className="employeeitem">
+            <div className="name">
+               Call Mobile
+            </div>
+            <div className="role">
+                781-000-0003
+            </div>
+            
         </div>
-        <div className="sms">
-            <p>SMS</p>
-            <p>781-000-0002</p>
+        <div className="employeeitem">
+            <div className="name">
+                SMS
+            </div>
+            <div className="role">
+                765-234-1234
+            </div>
+            
         </div>
         <div className="email">
             <p>Email</p>
