@@ -1,7 +1,7 @@
 
 .home{
   border : 1px solid yellow;
-  height : 500px;
+  height : 470px;
   width :300px;
   
   
@@ -28,17 +28,52 @@
   border : 1px solid black;
   width:600px;
   margin-left: 500px;
-  height:500px;
+  height:470px;
 }
 .employee
 {
   border : 1px solid brown;
   width:300px;
-  height: 500px;
+  
 }
 .search
 {
   border : 1px solid green;
   width:300px;
   height:50px;
+}
+.bar{
+  border : 1px solid green;
+  border-radius: 25px;
+  padding : 5px;
+  margin : 5px;
+  text-align: center;
+}
+.employeelist{
+  border: 1px solid purple;
+  width : 300px;
+  height: 350px;
+}
+.name{
+  font-weight: bold;
+}
+.role{
+  color:grey
+}
+.employeelistitem
+{
+  border : 1px solid red;
+
+}
+.employname
+{
+  text-align: center;
+  border : 1px solid black;
+  margin :20px;
+}
+.employeeitem
+{
+  text-align: center;
+  border : 1px solid black;
+  font-size : 15px;
 }
